@@ -89,7 +89,7 @@ The interactive web application includes **4 pages**:
 3. **❤️ Predict Disease** — Real-time prediction with BMI calculator and risk gauge
 4. **📈 Model Performance** — Metrics comparison, ROC curves, confusion matrices, feature importance
 
-Link: [**Heart Disease Predictor App**](https://your-app-name.streamlit.app/)
+Link: [**Heart Disease Predictor App**](https://heart-disease-prediction-using-patient-health-data-wpfdscle3se.streamlit.app/)
 
 ---
 
