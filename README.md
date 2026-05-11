@@ -11,7 +11,7 @@ The dashboard outputs actionable health insights backed by model predictions.
 ## Team Members
 - Ananthanarayanan B
 - Lanka Priya
-- Abhitha Raj S M
+- Anagha Jayarajan
 
 ## Project Overview
 
